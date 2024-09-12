@@ -44,33 +44,33 @@ En esta se mostrará un breve texto a modo introductorio sobre la aplicación.
 
 Más abajo se mostrarán las diferentes categorías de los diferentes platos que la plataforma ofrece. A continuación se mostrarán 3 platos destacados y un texto del objetivo de la aplicación.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.002.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/yzm4hkncaoz9wzolz6v6x/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.002.jpeg?rlkey=5xkvdwhuby45wwyx989fiesdm&st=zn7aru21&dl=0)
 
 El usuario podrá añadir platos y llenar su cesta de productos, pero para continuar será necesario un inicio de sesión.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.003.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/595thvrbe81fkywk5aetu/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.003.jpeg?rlkey=qi7qvrj6ose6cnf1wowhv1c0m&st=exi7zsn2&dl=0)
 
 El usuario podrá filtrar los platos por sus diferentes categorías. También podrá ver en detalle los diferentes alimentos que componen cada plato, sus valores nutricionales y su manual de uso.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.004.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/5sjxct3um8eoxhyrmvjyz/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.004.jpeg?rlkey=ybcjavo15ff3mn8tj3yzwscxg&st=aq5ng1x1&dl=0)
 
 Cuando el usuario esté registrado, podrá completar el proceso de la compra.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.005.jpeg) El usuario podrá visualizar sus datos, el número total de pedidos y el número de dinero gastado en la aplicación. Además tendrá un listado de todos sus pedidos.
+![](https://dl.dropboxusercontent.com/scl/fi/hpjcqycu6uso3z0srqgv8/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.005.jpeg?rlkey=s2b31sbld5qrst5awnq74k6io&st=y7sefplm&dl=0) El usuario podrá visualizar sus datos, el número total de pedidos y el número de dinero gastado en la aplicación. Además tendrá un listado de todos sus pedidos.
 
 El usuario tendrá la opción de actualizar algunos de sus datos.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.006.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/qrwi11rwugb0t3mvqyq41/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.006.jpeg?rlkey=o48dgkaxnw4ho29qdaqmqhnav&st=0c5s3f2e&dl=0)
 
 En la parte de descuentos, habrá dos objetivos principales, llegar a 100 euros en compras, y realizar 5 pedidos, cuando el usuario alcance la cifra, el usuario recibirá
 
 un código de descuento para su próximo pedido. El código se puede compartir a otros usuarios
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.007.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/uz602slz8sd2gz0uevima/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.007.jpeg?rlkey=1sapqbsusjeyrs2dqyk1vslnd&st=52eueczq&dl=0)
 
 En la parte de administrador, aparecerá una opción en el perfil para visualizar todos los usuarios y todos los platos de la aplicación. Este podrá modificar los precios de los platos, crear nuevos platos, eliminarlos. Además de eliminar usuarios o ascender a administrador.
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.008.jpeg)
+![](https://dl.dropboxusercontent.com/scl/fi/p0ks5c6sxkbolwufv1x3e/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.008.jpeg?rlkey=dejsvau2s235yx7c754g6stms&st=c4cffyy1&dl=0)
 
 **POSIBILIDADES DE AMPLIACIÓN**
 
