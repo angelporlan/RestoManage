@@ -1,11 +1,5 @@
 **DOCUMENTACIÓN DEL PROYECTO**
 
-**INTRODUCCIÓN**
-
-En Lorca, ha experimentado un crecimiento significativo en el desarrollo de aplicaciones web en los últimos años. Esta tendencia se ha visto impulsada por la creciente digitalización de los negocios y la necesidad de adaptarse a las demandas del mercado moderno.
-
-En Lorca, aproximadamente el 70% de las empresas cuenta con una página web propia, lo que demuestra un alto nivel de adopción de tecnologías digitales. Además, hay un pequeño pero creciente número de empresas dedicadas específicamente al desarrollo de aplicaciones web, representando cerca del 10% del total de empresas tecnológicas de la región. La venta de productos en línea también ha crecido, con un 35% de las empresas locales ofreciendo opciones de comercio electrónico.
-
 **DESCRIPCIÓN DEL PROYECTO**
 
 Este proyecto consiste en el desarrollo de una aplicación web para la gestión y administración de pedidos de comida a domicilio. La aplicación está diseñada para facilitar tanto a los usuarios como a los restaurantes la gestión de pedidos, entregas y pagos. Los usuarios pueden explorar por el catálogo. Por su parte, los restaurantes pueden gestionar sus menús, recibir pedidos en tiempo real y coordinar las entregas.
