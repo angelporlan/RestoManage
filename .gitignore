@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vue.js y Vuex
+dist/
+*.local
+.env.local
+.env.*.local
+.vscode/
+.DS_Store
+
+# Symfony
+/var/
+/vendor/
+/.env
+/.env.local
+/.env.*.local
+/public/bundles/
+/translations/
+/phpunit.xml
+/phpunit.xml.dist
+
+# Logs y caché de Symfony
+/var/log/*
+/var/cache/*
+/var/sessions/*
+
+# Composer
+/composer.lock
+
+# Docker y configuraciones locales
+/.dockerignore
+/docker-compose.override.yml
+/docker-compose.yml
+.env.test.local
+/.phpunit.result.cache
+
+# API Platform
+# Ignora los archivos generados por API Platform
+/api/
+/api/.env.local
+/api/.env.*.local
+/api/vendor/
+.api-platform/
