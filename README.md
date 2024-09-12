@@ -38,7 +38,7 @@ El proyecto tiene un alto potencial de éxito debido a la tendencia creciente ha
 
 Al entrar a la aplicación, se accedera a la ruta ‘/’, que será la página principal,
 
-![](Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.001.jpeg)
+![]([Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.001.jpeg](https://www.dropbox.com/scl/fi/f9l4c1vnln1qoinz8kj0p/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.001.jpeg?rlkey=sylaqo3aum1kpxh2mo33cbk6c&st=hoab1aw7&dl=0))
 
 En esta se mostrará un breve texto a modo introductorio sobre la aplicación.
 
