@@ -4,6 +4,14 @@
 
 Este proyecto consiste en el desarrollo de una aplicación web para la gestión y administración de pedidos de comida a domicilio. La aplicación está diseñada para facilitar tanto a los usuarios como a los restaurantes la gestión de pedidos, entregas y pagos. Los usuarios pueden explorar por el catálogo. Por su parte, los restaurantes pueden gestionar sus menús, recibir pedidos en tiempo real y coordinar las entregas.
 
+**INSTALACIÓN**
+El proyecto no esta alojado en el servidor, para probarlo de manera local:
+
+1) Descarga el proyecto y instala las dependencias.
+2) Installa XAMPP (si no lo tienes) y ejecuta mysql
+3) Crea el archivo .ENV sí no esta y modifica la ruta de DATABASE_URL para que coincida con la tuya
+4) Corre las migraciones e ejecuta symfony y vue. 
+
 **JUSTIFICACIÓN**
 
 La idea de desarrollar esta aplicación web surgió de la observación de la creciente demanda de servicios de entrega de comida a domicilio, especialmente en contextos urbanos y durante situaciones que limitan la movilidad, como la pandemia de COVID-19.
@@ -81,14 +89,6 @@ Mayor personalización en el perfil del usuario, preferencias de comida, pedidos
 Mejora de la pasarela de pago para incluir más opciones de pago y aumentar la seguridad.
 
 Añadir un chatbot para ayudar al usuario.
-
-**INSTALACIÓN**
-El proyecto no esta alojado en el servidor, para probarlo de manera local:
-
-1) Descarga el proyecto y instala las dependencias.
-2) Installa XAMPP (si no lo tienes) y ejecuta mysql
-3) Crea el archivo .ENV sí no esta y modifica la ruta de DATABASE_URL para que coincida con la tuya
-4) Corre las migraciones e ejecuta symfony y vue. 
 
 **BIBLIOGRAFÍA**
 
