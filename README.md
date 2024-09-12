@@ -82,6 +82,14 @@ Mejora de la pasarela de pago para incluir más opciones de pago y aumentar la s
 
 Añadir un chatbot para ayudar al usuario.
 
+**INSTALACIÓN**
+El proyecto no esta alojado en el servidor, para probarlo de manera local:
+
+1) Descarga el proyecto y instala las dependencias.
+2) Installa XAMPP (si no lo tienes) y ejecuta mysql
+3) Crea el archivo .ENV sí no esta y modifica la ruta de DATABASE_URL para que coincida con la tuya
+4) Corre las migraciones e ejecuta symfony y vue. 
+
 **BIBLIOGRAFÍA**
 
 Sitio web de XAMPP: https://www.apachefriends.org/index.html Documentación de Visual Studio Code:[ https://code.visualstudio.com/docs ](https://code.visualstudio.com/docs)MySQL Official Documentation:[ https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
