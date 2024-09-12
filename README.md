@@ -38,7 +38,7 @@ El proyecto tiene un alto potencial de éxito debido a la tendencia creciente ha
 
 Al entrar a la aplicación, se accedera a la ruta ‘/’, que será la página principal,
 
-![](https://ibb.co/Tt2vf4c)
+![](https://dl.dropboxusercontent.com/s/f9l4c1vnln1qoinz8kj0p/Aspose.Words.e64a704a-e942-43ad-9d3f-0e973e6ecf2f.001.jpeg)
 
 En esta se mostrará un breve texto a modo introductorio sobre la aplicación.
 
