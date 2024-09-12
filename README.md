@@ -8,9 +8,9 @@ Este proyecto consiste en el desarrollo de una aplicación web para la gestión 
 El proyecto no esta alojado en el servidor, para probarlo de manera local:
 
 1) Descarga el proyecto y instala las dependencias.
-2) Installa XAMPP (si no lo tienes) y ejecuta mysql
-3) Crea el archivo .ENV sí no esta y modifica la ruta de DATABASE_URL para que coincida con la tuya
-4) Corre las migraciones e ejecuta symfony y vue. 
+2) Installa XAMPP (si no lo tienes) y ejecuta mysql.
+3) Crea el archivo .ENV sí no esta y crea la variable DATABASE_URL y pon la ruta de la base de datos.
+4) Corre las migraciones y ejecuta symfony y vue. 
 
 **JUSTIFICACIÓN**
 
